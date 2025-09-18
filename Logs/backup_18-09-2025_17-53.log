@@ -1,0 +1,356 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 18 de setembro de 2025 17:53:39
+   Origem : C:\Users\User\Documents\Manuais\
+     Destino : \\192.0.30.93\Instaladores\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /V /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /ETA /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	C:\Users\User\Documents\Manuais\
+	*Dir EXTRA        -1	\\192.0.30.93\Instaladores\Scripting\
+	  *Arquivo EXTRA		     771	Backup.bat
+	*Dir EXTRA        -1	\\192.0.30.93\Instaladores\Scripting\Logs\
+	  *Arquivo EXTRA		    2335	backup_18-09-2025_11-49.log
+	  *Arquivo EXTRA		    3402	backup_18-09-2025_11-52.log
+	  *Arquivo EXTRA		    2335	backup_18-09-2025_11-53.log
+	  *Arquivo EXTRA		    2006	backup_18-09-2025_11-54.log
+	  *Arquivo EXTRA		    1669	backup_18-09-2025_11-55.log
+	  *Arquivo EXTRA		   26985	backup_18-09-2025_11-56.log
+	    modificado		  438807	Como abrir uma OS no OSTicket - Operador.pdf
+	    modificado		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia - Copia.docx
+	    modificado		   3.0 m	Manual de Uso do OsTicket para Agentes.pdf
+	         mesmo		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia.docx
+	                  17	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\
+	    modificado		   71145	.Copy of Jiga_uProcess_Sensor_Corrente_2gen.g_c
+	    modificado		    7018	.Copy of Jiga_uProcess_Sensor_Corrente_2gen.g_x
+	    modificado		   25304	.cproject
+	    modificado		     273	.cwGeneratedFileSetLog
+	    modificado		   55035	.Jiga_KWT_Sensor_Corrente.g_c
+	    modificado		    5346	.Jiga_KWT_Sensor_Corrente.g_x
+	    modificado		   71106	.Jiga_uProcess_Sensor_Corrente.g_c
+	    modificado		    6980	.Jiga_uProcess_Sensor_Corrente.g_x
+	    modificado		   71121	.jiga_uProcess_Sensor_Corrente_3gen.g_c
+	    modificado		    6995	.jiga_uProcess_Sensor_Corrente_3gen.g_x
+	    modificado		    3636	.project
+	    modificado		   23049	Jiga_KWT_Sensor_Corrente FLASH.traceConfig
+	    modificado		   23054	Jiga_uProcess_Sensor_Corrente FLASH.traceConfig
+	    modificado		   23059	jiga_uProcess_Sensor_Corrente_3gen FLASH.traceConfig
+	    modificado		  488931	ProcessorExpert.pe
+	    modificado		   12677	ReferencedRSESystems.xml
+	    modificado		     489	SaAnalysispointsManager.apconfig
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\BL_007CE_LD_28V_JMP_023_FILTRO_TESTE_EM_32V\
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\BL_007CE_LD_28V_JMP_023_FILTRO_TESTE_EM_32V\FLASH\
+	    modificado		   76287	Jiga_KWT_Sensor_Corrente.elf
+	                   3	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\
+	    modificado		       0	.lock
+	    modificado		   11403	.log
+	    modificado		      26	version.ini
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.configuration\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.configuration\profiles\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.core.debugger.cdt\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.core.debugger.cdt\.filecopy\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.processorexpert.core\
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.targettaskframework\
+	    modificado		     177	TargetTaskFrameworkDataModel.xml
+	    modificado		      69	TargetTaskFrameworkHistory.xml
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.core\
+	    modificado		     164	.log
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.make.core\
+	    modificado		       1	specs.c
+	    modificado		       1	specs.cpp
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.ui\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.history\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.projects\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.root\
+	    modificado		     185	2.tree
+	                   3	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+	    modificado		       1	history.version
+	    modificado		     104	properties.index
+	    modificado		       1	properties.version
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.safetable\
+	    modificado		     782	org.eclipse.core.resources
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.runtime\
+	                  14	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.runtime\.settings\
+	    modificado		      72	com.freescale.core.ide.projectsView.prefs
+	    modificado		     113	com.freescale.core.ide.util.prefs
+	    modificado		      46	com.freescale.sa.analysispoints.mcu.prefs
+	    modificado		     104	com.freescale.sa.analysispoints.prefs
+	    modificado		     630	org.eclipse.cdt.core.prefs
+	    modificado		    4378	org.eclipse.cdt.debug.core.prefs
+	    modificado		     144	org.eclipse.cdt.ui.prefs
+	    modificado		      42	org.eclipse.core.resources.prefs
+	    modificado		     492	org.eclipse.debug.core.prefs
+	    modificado		     165	org.eclipse.debug.ui.prefs
+	    modificado		     189	org.eclipse.rse.core.prefs
+	    modificado		      97	org.eclipse.rse.ui.prefs
+	    modificado		     129	org.eclipse.ui.ide.prefs
+	    modificado		      48	org.eclipse.ui.prefs
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.debug.core\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.debug.ui\
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.e4.workbench\
+	    modificado		  261504	workbench.xmi
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\
+	    modificado		       0	.log
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\initializerMarks\
+	    modificado		       0	org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\
+	    modificado		      68	folderNames.properties
+	    modificado		     163	node.properties
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\0\
+	    modificado		      34	folderNames.properties
+	    modificado		    2364	node.properties
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\
+	    modificado		      96	folderNames.properties
+	    modificado		    1171	node.properties
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\0\
+	    modificado		      34	folderNames.properties
+	    modificado		     434	node.properties
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\1\
+	    modificado		      34	folderNames.properties
+	    modificado		     291	node.properties
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.ui\
+	    modificado		       0	.log
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.ide\
+	    modificado		     297	dialog_settings.xml
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.intro\
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.workbench\
+	    modificado		     395	dialog_settings.xml
+	    modificado		     257	workingsets.xml
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\jythoncache\
+	                  12	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\jythoncache\packages\
+	    modificado		    6619	charsets.pkc
+	    modificado		     135	dnsns.pkc
+	    modificado		    1070	jce.pkc
+	    modificado		    3028	jsse.pkc
+	    modificado		    1859	localedata.pkc
+	    modificado		     244	org.eclipse.equinox.launcher_1.3.0.FSL_b181101.pkc
+	    modificado		    1932	packages.idx
+	    modificado		      65	resources.pkc
+	    modificado		  213789	rt.pkc
+	    modificado		    1196	sunjce_provider.pkc
+	    modificado		     216	sunmscapi.pkc
+	    modificado		    1243	sunpkcs11.pkc
+	                   4	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.settings\
+	    modificado		    1557	com.freescale.core.ide.cdt.toolchain.prefs
+	    modificado		      89	com.freescale.core.ide.newprojectwizard.prefs
+	    modificado		     342	com.freescale.processorexpert.core.prefs
+	    modificado		   10423	org.eclipse.cdt.codan.core.prefs
+	                  12	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Documentation\
+	    modificado		   21949	Copy of Jiga_uProcess_Sensor_Corrente_2gen.txt
+	    modificado		   48257	Copy of Jiga_uProcess_Sensor_Corrente_2gen_Settings.xml
+	    modificado		    1230	Copy of Jiga_uProcess_Sensor_Corrente_2gen_SIGNALS.txt
+	    modificado		   21936	Jiga_uProcess_Sensor_Corrente.txt
+	    modificado		   21941	jiga_uProcess_Sensor_Corrente_3gen.txt
+	    modificado		   48257	jiga_uProcess_Sensor_Corrente_3gen_Settings.xml
+	    modificado		    1223	jiga_uProcess_Sensor_Corrente_3gen_SIGNALS.txt
+	    modificado		   47028	Jiga_uProcess_Sensor_Corrente_Settings.previous.xml
+	    modificado		   48257	Jiga_uProcess_Sensor_Corrente_Settings.xml
+	    modificado		    1218	Jiga_uProcess_Sensor_Corrente_SIGNALS.txt
+	    modificado		    1522	Pinagem_e_Conectores.txt
+	    modificado		    2162	Pinagem_e_Conectores_Conjuto_Jiga.txt
+	                   8	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\
+	    modificado		    2004	Jiga_KWT_Sensor_Corrente.args
+	    modificado		   66151	Jiga_KWT_Sensor_Corrente.elf
+	    modificado		   25688	Jiga_KWT_Sensor_Corrente.elf.S19
+	    modificado		   12082	Jiga_KWT_Sensor_Corrente.elf.xMAP
+	    modificado		    3751	makefile
+	    modificado		     883	makefile.local
+	    modificado		     276	objects.mk
+	    modificado		    2306	sources.mk
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\.plugins\
+	                   7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\.plugins\org.eclipse.cdt.make.core\
+	    modificado		    1266	specs.args
+	    modificado		    1266	specs_1.args
+	    modificado		     434	specs_c.d
+	    modificado		    1680	specs_c.obj
+	    modificado		     438	specs_cpp.d
+	    modificado		    1680	specs_cpp.obj
+	    modificado		    2687	subdir.mk
+	                  61	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Generated_Code\
+	    modificado		    1266	AJUSTA_FONTE.args
+	    modificado		    1707	AJUSTA_FONTE_c.d
+	    modificado		    3160	AJUSTA_FONTE_c.obj
+	    modificado		    1266	ALERT.args
+	    modificado		    1686	ALERT_c.d
+	    modificado		    1616	ALERT_c.obj
+	    modificado		    1266	AUX1.args
+	    modificado		    1683	AUX1_c.d
+	    modificado		    1616	AUX1_c.obj
+	    modificado		    1266	AUX2.args
+	    modificado		    1683	AUX2_c.d
+	    modificado		    1616	AUX2_c.obj
+	    modificado		    1266	BUZZER.args
+	    modificado		    1689	BUZZER_c.d
+	    modificado		    3096	BUZZER_c.obj
+	    modificado		    1266	Cpu.args
+	    modificado		    3235	Cpu_c.d
+	    modificado		    7024	Cpu_c.obj
+	    modificado		    1266	IIC.args
+	    modificado		    1680	IIC_c.d
+	    modificado		   13088	IIC_c.obj
+	    modificado		    1266	IO_Map.args
+	    modificado		    1324	IO_Map_c.d
+	    modificado		    8192	IO_Map_c.obj
+	    modificado		    1266	LED1.args
+	    modificado		    1683	LED1_c.d
+	    modificado		    3064	LED1_c.obj
+	    modificado		    1266	LED2.args
+	    modificado		    1683	LED2_c.d
+	    modificado		    3064	LED2_c.obj
+	    modificado		    1266	MOTOR_OK.args
+	    modificado		    1695	MOTOR_OK_c.d
+	    modificado		    4080	MOTOR_OK_c.obj
+	    modificado		    1266	REF_MS.args
+	    modificado		    3241	REF_MS_c.d
+	    modificado		    3976	REF_MS_c.obj
+	    modificado		    1266	SAIDA_1.args
+	    modificado		    1692	SAIDA_1_c.d
+	    modificado		    3112	SAIDA_1_c.obj
+	    modificado		    1266	SAIDA_2.args
+	    modificado		    1692	SAIDA_2_c.d
+	    modificado		    3112	SAIDA_2_c.obj
+	    modificado		    1266	SAIDA_3.args
+	    modificado		    1692	SAIDA_3_c.d
+	    modificado		    3112	SAIDA_3_c.obj
+	    modificado		    1266	SAIDA_4.args
+	    modificado		    1692	SAIDA_4_c.d
+	    modificado		    3112	SAIDA_4_c.obj
+	    modificado		    1266	SAIDA_5.args
+	    modificado		    1692	SAIDA_5_c.d
+	    modificado		    3112	SAIDA_5_c.obj
+	    modificado		    1266	SERIAL1.args
+	    modificado		    3243	SERIAL1_c.d
+	    modificado		   17088	SERIAL1_c.obj
+	    modificado		   11559	subdir.mk
+	    modificado		    1266	Vectors.args
+	    modificado		    3266	Vectors_c.d
+	    modificado		    4432	Vectors_c.obj
+	    modificado		    1266	_5V_FIM_DE_CURSO.args
+	    modificado		    1719	_5V_FIM_DE_CURSO_c.d
+	    modificado		    3208	_5V_FIM_DE_CURSO_c.obj
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Project_Settings\
+	                   4	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Project_Settings\Startup_Code\
+	    modificado		    1266	startcf.args
+	    modificado		     624	startcf_c.d
+	    modificado		   10432	startcf_c.obj
+	    modificado		    1381	subdir.mk
+	                  16	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Sources\
+	    modificado		    1266	acionamentos.args
+	    modificado		    3169	acionamentos_c.d
+	    modificado		   29328	acionamentos_c.obj
+	    modificado		    1266	Events.args
+	    modificado		    3420	Events_c.d
+	    modificado		    6776	Events_c.obj
+	    modificado		    1266	main.args
+	    modificado		    3699	main_c.d
+	    modificado		    9184	main_c.obj
+	    modificado		    1266	pac1710.args
+	    modificado		    3613	pac1710_c.d
+	    modificado		   10512	pac1710_c.obj
+	    modificado		    1266	serial.args
+	    modificado		    3610	serial_c.d
+	    modificado		    7752	serial_c.obj
+	    modificado		    2988	subdir.mk
+	                  42	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Generated_Code\
+	    modificado		    7535	AJUSTA_FONTE.c
+	    modificado		    7388	AJUSTA_FONTE.h
+	    modificado		    5570	ALERT.c
+	    modificado		    5620	ALERT.h
+	    modificado		    5578	AUX1.c
+	    modificado		    5627	AUX1.h
+	    modificado		    5578	AUX2.c
+	    modificado		    5627	AUX2.h
+	    modificado		    7410	BUZZER.c
+	    modificado		    7269	BUZZER.h
+	    modificado		   17172	Cpu.c
+	    modificado		    8195	Cpu.h
+	    modificado		   34331	IIC.c
+	    modificado		   22825	IIC.h
+	    modificado		   34012	IO_Map.c
+	    modificado		  605023	IO_Map.h
+	    modificado		    5442	LED1.c
+	    modificado		    5319	LED1.h
+	    modificado		    5448	LED2.c
+	    modificado		    5325	LED2.h
+	    modificado		    9608	MOTOR_OK.c
+	    modificado		    9214	MOTOR_OK.h
+	    modificado		    3990	PE_Const.h
+	    modificado		    5030	PE_Error.h
+	    modificado		   18941	PE_Types.h
+	    modificado		    7902	REF_MS.c
+	    modificado		    6424	REF_MS.h
+	    modificado		    7425	SAIDA_1.c
+	    modificado		    7283	SAIDA_1.h
+	    modificado		    7425	SAIDA_2.c
+	    modificado		    7283	SAIDA_2.h
+	    modificado		    7423	SAIDA_3.c
+	    modificado		    7281	SAIDA_3.h
+	    modificado		    7423	SAIDA_4.c
+	    modificado		    7281	SAIDA_4.h
+	    modificado		    7423	SAIDA_5.c
+	    modificado		    7281	SAIDA_5.h
+	    modificado		   28982	SERIAL1.c
+	    modificado		   18680	SERIAL1.h
+	    modificado		   16052	Vectors.c
+	    modificado		    5568	_5V_FIM_DE_CURSO.c
+	    modificado		    5469	_5V_FIM_DE_CURSO.h
+	                   7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Headers\
+	    modificado		    1077	acionamentos.h
+	    modificado		  339738	configuracao.BAK
+	    modificado		  464788	configuracao.h
+	    modificado		  447460	Copy of configuracao.h
+	    modificado		     556	pac1710.h
+	    modificado		     244	serial.h
+	    modificado		    1385	variaveis.h
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Debugger\
+	    modificado		     496	Jiga_KWT_Sensor_Corrente_FLASH_PnE U-MultiLink.pemicro
+	    modificado		    1135	MCF51AC256A.mem
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Linker_Files\
+	    modificado		    3527	Jiga_KWT_Sensor_Corrente.lcf
+	    modificado		    5130	ProcessorExpert.lcf
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\PExCompAutoTest\
+	                   2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Startup_Code\
+	    modificado		    7500	startcf.c
+	    modificado		    2256	startcf.h
+	                   0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteLaunch\
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteLaunch\results\
+	    modificado		       0	remotelaunch.log
+	                   1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteSystemsTempFiles\
+	    modificado		     289	.project
+	                   7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Sources\
+	    modificado		   17076	acionamentos.c
+	    modificado		      46	desktop.ini
+	    modificado		    5174	Events.c
+	    modificado		    5192	Events.h
+	    modificado		    6455	main.c
+	    modificado		    4515	pac1710.c
+	    modificado		    3195	serial.c
+	                   1	C:\Users\User\Documents\Manuais\Teste\
+	    modificado		       0	Teste.docx
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:        67         0        67         0         0         2
+ Arquivos:       255         0       255         0         0         7
+    Bytes:   19.68 m         0   19.68 m         0         0    38.5 k
+N.§ de Vezes:   0:00:04   0:00:00                       0:00:00   0:00:04
+   Finalizado em: quinta-feira, 18 de setembro de 2025 17:53:43
+

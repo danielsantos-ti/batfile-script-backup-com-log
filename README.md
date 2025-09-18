@@ -13,9 +13,9 @@ Este script em **Batch (Windows)** realiza o backup automático de arquivos de u
 
 ## 📁 Estrutura
 
-- **Origem:** `C:\Users\User\Documents\Manuais`
-- **Destino:** `\\192.0.30.93\Instaladores`
-- **Logs:** Gerados em `C:\Users\User\Documents\Scripting\Logs` com nome baseado no timestamp
+- **Origem:** `C:\CAMINHO\DA\PASTA\ORIGEM`
+- **Destino:** `\\SERVIDOR\CAMINHO\DA\PASTA\DESTINO`
+- **Logs:** Gerados em `C:\CAMINHO\COM\A\PASTA\LOG` com nome baseado no timestamp
 
 ## 📝 Exemplo de uso
 
