@@ -1,0 +1,34 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 18 de setembro de 2025 11:49:35
+   Origem : C:\Users\User\Documents\Manuais\
+     Destino : \\192.0.30.93\Instaladores\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /V /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /ETA /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	C:\Users\User\Documents\Manuais\
+	    modificado		  438807	Como abrir uma OS no OSTicket - Operador.pdf
+	    modificado		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia - Copia.docx
+	    modificado		   3.0 m	Manual de Uso do OsTicket para Agentes.pdf
+	  Mais Recente		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia.docx  1.0%  2.0%  3.1%  4.1%  5.2%  6.2%  7.3%  8.3%  9.4% 10.4% 11.4% 12.5% 13.5% 14.6% 15.6% 16.7% 17.7% 18.8% 19.8% 20.8% 21.9% 22.9% 24.0% 25.0% 26.1% 27.1% 28.2% 29.2% 30.2% 31.3% 32.3% 33.4% 34.4% 35.5% 36.5% 37.6% 38.6% 39.6% 40.7% 41.7% 42.8% 43.8% 44.9% 45.9% 47.0% 48.0% 49.0% 50.1% 51.1% 52.2% 53.2% 54.3% 55.3% 56.4% 57.4% 58.4% 59.5% 60.5% 61.6% 62.6% 63.7% 64.7% 65.8% 66.8% 67.8% 68.9% 69.9% 71.0% 72.0% 73.1% 74.1% 75.2% 76.2% 77.2% 78.3% 79.3% 80.4% 81.4% 82.5% 83.5% 84.6% 85.6% 86.6% 87.7% 88.7% 89.8% 90.8% 91.9% 92.9% 94.0% 95.0% 96.0% 97.1% 98.1% 99.2%100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         4         1         3         0         0         0
+    Bytes:   15.39 m    5.98 m    9.40 m         0         0         0
+N.§ de Vezes:   0:00:03   0:00:03                       0:00:00   0:00:00
+
+
+Velocidade:           1.605.895 Bytes/s.
+Velocidade:              91,890 MegaBytes/min.
+   Finalizado em: quinta-feira, 18 de setembro de 2025 11:49:39
+

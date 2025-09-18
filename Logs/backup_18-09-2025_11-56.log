@@ -1,0 +1,351 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 18 de setembro de 2025 11:56:37
+   Origem : C:\Users\User\Documents\Manuais\
+     Destino : \\192.0.30.93\Instaladores\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /V /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /ETA /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	C:\Users\User\Documents\Manuais\
+	    modificado		  438807	Como abrir uma OS no OSTicket - Operador.pdf
+	    modificado		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia - Copia.docx
+	    modificado		   3.0 m	Manual de Uso do OsTicket para Agentes.pdf
+	         mesmo		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia.docx
+	    Novo Dir      17	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\
+	  Novo Arquivo		   71145	.Copy of Jiga_uProcess_Sensor_Corrente_2gen.g_c 99%  
+	  Novo Arquivo		    7018	.Copy of Jiga_uProcess_Sensor_Corrente_2gen.g_x	11:56 -> 11:56 99%  
+	  Novo Arquivo		   25304	.cproject	11:56 -> 11:56 99%  
+	  Novo Arquivo		     273	.cwGeneratedFileSetLog	11:56 -> 11:56 91%  
+	  Novo Arquivo		   55035	.Jiga_KWT_Sensor_Corrente.g_c	11:56 -> 11:56 99%  
+	  Novo Arquivo		    5346	.Jiga_KWT_Sensor_Corrente.g_x	11:56 -> 11:56 99%  
+	  Novo Arquivo		   71106	.Jiga_uProcess_Sensor_Corrente.g_c	11:56 -> 11:56 99%  
+	  Novo Arquivo		    6980	.Jiga_uProcess_Sensor_Corrente.g_x	11:56 -> 11:56 99%  
+	  Novo Arquivo		   71121	.jiga_uProcess_Sensor_Corrente_3gen.g_c	11:56 -> 11:56 99%  
+	  Novo Arquivo		    6995	.jiga_uProcess_Sensor_Corrente_3gen.g_x	11:56 -> 11:56 99%  
+	  Novo Arquivo		    3636	.project	11:56 -> 11:56 99%  
+	  Novo Arquivo		   23049	Jiga_KWT_Sensor_Corrente FLASH.traceConfig	11:56 -> 11:56 99%  
+	  Novo Arquivo		   23054	Jiga_uProcess_Sensor_Corrente FLASH.traceConfig	11:56 -> 11:56 99%  
+	  Novo Arquivo		   23059	jiga_uProcess_Sensor_Corrente_3gen FLASH.traceConfig	11:56 -> 11:56 99%  
+	  Novo Arquivo		  488931	ProcessorExpert.pe	11:56 -> 11:57 99%  
+	  Novo Arquivo		   12677	ReferencedRSESystems.xml	11:56 -> 11:56 99%  
+	  Novo Arquivo		     489	SaAnalysispointsManager.apconfig	11:56 -> 11:56 94%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\BL_007CE_LD_28V_JMP_023_FILTRO_TESTE_EM_32V\
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.external_binary\Users\tecnica1\workspace\BL_007CE_LD_28V_JMP_023_FILTRO_TESTE_EM_32V\FLASH\
+	  Novo Arquivo		   76287	Jiga_KWT_Sensor_Corrente.elf	11:56 -> 11:56 99%  
+	    Novo Dir       3	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\
+	  Novo Arquivo		       0	.lock		11:56 -> 11:56
+	  Novo Arquivo		   11403	.log		11:56 -> 11:56 99%  
+	  Novo Arquivo		      26	version.ini	11:56 -> 11:56 50%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.configuration\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.configuration\profiles\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.core.debugger.cdt\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.core.debugger.cdt\.filecopy\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.processorexpert.core\
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\com.freescale.targettaskframework\
+	  Novo Arquivo		     177	TargetTaskFrameworkDataModel.xml	11:56 -> 11:56 87%  
+	  Novo Arquivo		      69	TargetTaskFrameworkHistory.xml	11:56 -> 11:56 72%  
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.core\
+	  Novo Arquivo		     164	.log		11:56 -> 11:56 86%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.make.core\
+	  Novo Arquivo		       1	specs.c		11:56 -> 11:56  3%  
+	  Novo Arquivo		       1	specs.cpp	11:56 -> 11:56  3%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.cdt.ui\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.history\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.projects\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.root\
+	  Novo Arquivo		     185	2.tree		11:57 -> 11:57 87%  
+	    Novo Dir       3	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+	  Novo Arquivo		       1	history.version	11:57 -> 11:57  3%  
+	  Novo Arquivo		     104	properties.index	11:57 -> 11:57 80%  
+	  Novo Arquivo		       1	properties.version	11:57 -> 11:57  3%  
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.resources\.safetable\
+	  Novo Arquivo		     782	org.eclipse.core.resources	11:57 -> 11:57 96%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.runtime\
+	    Novo Dir      14	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.core.runtime\.settings\
+	  Novo Arquivo		      72	com.freescale.core.ide.projectsView.prefs	11:57 -> 11:57 73%  
+	  Novo Arquivo		     113	com.freescale.core.ide.util.prefs	11:57 -> 11:57 81%  
+	  Novo Arquivo		      46	com.freescale.sa.analysispoints.mcu.prefs	11:57 -> 11:57 63%  
+	  Novo Arquivo		     104	com.freescale.sa.analysispoints.prefs	11:57 -> 11:57 80%  
+	  Novo Arquivo		     630	org.eclipse.cdt.core.prefs	11:57 -> 11:57 96%  
+	  Novo Arquivo		    4378	org.eclipse.cdt.debug.core.prefs	11:57 -> 11:57 99%  
+	  Novo Arquivo		     144	org.eclipse.cdt.ui.prefs	11:57 -> 11:57 84%  
+	  Novo Arquivo		      42	org.eclipse.core.resources.prefs	11:57 -> 11:57 61%  
+	  Novo Arquivo		     492	org.eclipse.debug.core.prefs	11:57 -> 11:57 94%  
+	  Novo Arquivo		     165	org.eclipse.debug.ui.prefs	11:57 -> 11:57 86%  
+	  Novo Arquivo		     189	org.eclipse.rse.core.prefs	11:57 -> 11:57 87%  
+	  Novo Arquivo		      97	org.eclipse.rse.ui.prefs	11:57 -> 11:57 78%  
+	  Novo Arquivo		     129	org.eclipse.ui.ide.prefs	11:57 -> 11:57 83%  
+	  Novo Arquivo		      48	org.eclipse.ui.prefs	11:57 -> 11:57 64%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.debug.core\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.debug.ui\
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.e4.workbench\
+	  Novo Arquivo		  261504	workbench.xmi	11:57 -> 11:57 99%  
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\
+	  Novo Arquivo		       0	.log		11:57 -> 11:57
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\initializerMarks\
+	  Novo Arquivo		       0	org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark	11:57 -> 11:57
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\
+	  Novo Arquivo		      68	folderNames.properties	11:57 -> 11:57 72%  
+	  Novo Arquivo		     163	node.properties	11:57 -> 11:57 86%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\0\
+	  Novo Arquivo		      34	folderNames.properties	11:57 -> 11:57 56%  
+	  Novo Arquivo		    2364	node.properties	11:57 -> 11:57 98%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\
+	  Novo Arquivo		      96	folderNames.properties	11:57 -> 11:57 78%  
+	  Novo Arquivo		    1171	node.properties	11:57 -> 11:57 97%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\0\
+	  Novo Arquivo		      34	folderNames.properties	11:57 -> 11:57 56%  
+	  Novo Arquivo		     434	node.properties	11:57 -> 11:57 94%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.core\profiles\PRF.area_tecnica_3967\1\1\
+	  Novo Arquivo		      34	folderNames.properties	11:57 -> 11:57 56%  
+	  Novo Arquivo		     291	node.properties	11:57 -> 11:57 91%  
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.rse.ui\
+	  Novo Arquivo		       0	.log		11:57 -> 11:57
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.ide\
+	  Novo Arquivo		     297	dialog_settings.xml	11:57 -> 11:57 91%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.intro\
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\.plugins\org.eclipse.ui.workbench\
+	  Novo Arquivo		     395	dialog_settings.xml	11:57 -> 11:57 93%  
+	  Novo Arquivo		     257	workingsets.xml	11:57 -> 11:57 90%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\jythoncache\
+	    Novo Dir      12	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.metadata\jythoncache\packages\
+	  Novo Arquivo		    6619	charsets.pkc	11:57 -> 11:57 99%  
+	  Novo Arquivo		     135	dnsns.pkc	11:57 -> 11:57 83%  
+	  Novo Arquivo		    1070	jce.pkc		11:57 -> 11:57 97%  
+	  Novo Arquivo		    3028	jsse.pkc	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1859	localedata.pkc	11:57 -> 11:57 98%  
+	  Novo Arquivo		     244	org.eclipse.equinox.launcher_1.3.0.FSL_b181101.pkc	11:57 -> 11:57 90%  
+	  Novo Arquivo		    1932	packages.idx	11:57 -> 11:57 98%  
+	  Novo Arquivo		      65	resources.pkc	11:57 -> 11:57 71%  
+	  Novo Arquivo		  213789	rt.pkc		11:57 -> 11:57 99%  
+	  Novo Arquivo		    1196	sunjce_provider.pkc	11:57 -> 11:57 97%  
+	  Novo Arquivo		     216	sunmscapi.pkc	11:57 -> 11:57 89%  
+	  Novo Arquivo		    1243	sunpkcs11.pkc	11:57 -> 11:57 97%  
+	    Novo Dir       4	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\.settings\
+	  Novo Arquivo		    1557	com.freescale.core.ide.cdt.toolchain.prefs	11:57 -> 11:57 98%  
+	  Novo Arquivo		      89	com.freescale.core.ide.newprojectwizard.prefs	11:57 -> 11:57 77%  
+	  Novo Arquivo		     342	com.freescale.processorexpert.core.prefs	11:57 -> 11:57 92%  
+	  Novo Arquivo		   10423	org.eclipse.cdt.codan.core.prefs	11:57 -> 11:57 99%  
+	    Novo Dir      12	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Documentation\
+	  Novo Arquivo		   21949	Copy of Jiga_uProcess_Sensor_Corrente_2gen.txt	11:57 -> 11:57 99%  
+	  Novo Arquivo		   48257	Copy of Jiga_uProcess_Sensor_Corrente_2gen_Settings.xml	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1230	Copy of Jiga_uProcess_Sensor_Corrente_2gen_SIGNALS.txt	11:57 -> 11:57 97%  
+	  Novo Arquivo		   21936	Jiga_uProcess_Sensor_Corrente.txt	11:57 -> 11:57 99%  
+	  Novo Arquivo		   21941	jiga_uProcess_Sensor_Corrente_3gen.txt	11:57 -> 11:57 99%  
+	  Novo Arquivo		   48257	jiga_uProcess_Sensor_Corrente_3gen_Settings.xml	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1223	jiga_uProcess_Sensor_Corrente_3gen_SIGNALS.txt	11:57 -> 11:57 97%  
+	  Novo Arquivo		   47028	Jiga_uProcess_Sensor_Corrente_Settings.previous.xml	11:57 -> 11:57 99%  
+	  Novo Arquivo		   48257	Jiga_uProcess_Sensor_Corrente_Settings.xml	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1218	Jiga_uProcess_Sensor_Corrente_SIGNALS.txt	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1522	Pinagem_e_Conectores.txt	11:57 -> 11:57 98%  
+	  Novo Arquivo		    2162	Pinagem_e_Conectores_Conjuto_Jiga.txt	11:57 -> 11:57 98%  
+	    Novo Dir       8	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\
+	  Novo Arquivo		    2004	Jiga_KWT_Sensor_Corrente.args	11:57 -> 11:57 98%  
+	  Novo Arquivo		   66151	Jiga_KWT_Sensor_Corrente.elf	11:57 -> 11:57 99%  
+	  Novo Arquivo		   25688	Jiga_KWT_Sensor_Corrente.elf.S19	11:57 -> 11:57 99%  
+	  Novo Arquivo		   12082	Jiga_KWT_Sensor_Corrente.elf.xMAP	11:57 -> 11:57 99%  
+	  Novo Arquivo		    3751	makefile	11:57 -> 11:57 99%  
+	  Novo Arquivo		     883	makefile.local	11:57 -> 11:57 97%  
+	  Novo Arquivo		     276	objects.mk	11:57 -> 11:57 91%  
+	  Novo Arquivo		    2306	sources.mk	11:57 -> 11:57 98%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\.plugins\
+	    Novo Dir       7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\.metadata\.plugins\org.eclipse.cdt.make.core\
+	  Novo Arquivo		    1266	specs.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1266	specs_1.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		     434	specs_c.d	11:57 -> 11:57 94%  
+	  Novo Arquivo		    1680	specs_c.obj	11:57 -> 11:57 98%  
+	  Novo Arquivo		     438	specs_cpp.d	11:57 -> 11:57 94%  
+	  Novo Arquivo		    1680	specs_cpp.obj	11:57 -> 11:57 98%  
+	  Novo Arquivo		    2687	subdir.mk	11:57 -> 11:57 99%  
+	    Novo Dir      61	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Generated_Code\
+	  Novo Arquivo		    1266	AJUSTA_FONTE.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1707	AJUSTA_FONTE_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3160	AJUSTA_FONTE_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	ALERT.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1686	ALERT_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1616	ALERT_c.obj	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1266	AUX1.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1683	AUX1_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1616	AUX1_c.obj	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1266	AUX2.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1683	AUX2_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1616	AUX2_c.obj	11:57 -> 11:57 98%  
+	  Novo Arquivo		    1266	BUZZER.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1689	BUZZER_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3096	BUZZER_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	Cpu.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3235	Cpu_c.d		11:57 -> 11:57 99%  
+	  Novo Arquivo		    7024	Cpu_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	IIC.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1680	IIC_c.d		11:57 -> 11:57 98%  
+	  Novo Arquivo		   13088	IIC_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	IO_Map.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1324	IO_Map_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    8192	IO_Map_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	LED1.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1683	LED1_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3064	LED1_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	LED2.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1683	LED2_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3064	LED2_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	MOTOR_OK.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1695	MOTOR_OK_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    4080	MOTOR_OK_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	REF_MS.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3241	REF_MS_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		    3976	REF_MS_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SAIDA_1.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1692	SAIDA_1_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3112	SAIDA_1_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SAIDA_2.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1692	SAIDA_2_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3112	SAIDA_2_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SAIDA_3.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1692	SAIDA_3_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3112	SAIDA_3_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SAIDA_4.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1692	SAIDA_4_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3112	SAIDA_4_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SAIDA_5.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1692	SAIDA_5_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3112	SAIDA_5_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	SERIAL1.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3243	SERIAL1_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		   17088	SERIAL1_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		   11559	subdir.mk	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	Vectors.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3266	Vectors_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		    4432	Vectors_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	_5V_FIM_DE_CURSO.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    1719	_5V_FIM_DE_CURSO_c.d	11:57 -> 11:57 98%  
+	  Novo Arquivo		    3208	_5V_FIM_DE_CURSO_c.obj	11:57 -> 11:57 99%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Project_Settings\
+	    Novo Dir       4	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Project_Settings\Startup_Code\
+	  Novo Arquivo		    1266	startcf.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		     624	startcf_c.d	11:57 -> 11:57 96%  
+	  Novo Arquivo		   10432	startcf_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1381	subdir.mk	11:57 -> 11:57 98%  
+	    Novo Dir      16	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\FLASH\Sources\
+	  Novo Arquivo		    1266	acionamentos.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3169	acionamentos_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		   29328	acionamentos_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	Events.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3420	Events_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		    6776	Events_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	main.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3699	main_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		    9184	main_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	pac1710.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3613	pac1710_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		   10512	pac1710_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    1266	serial.args	11:57 -> 11:57 97%  
+	  Novo Arquivo		    3610	serial_c.d	11:57 -> 11:57 99%  
+	  Novo Arquivo		    7752	serial_c.obj	11:57 -> 11:57 99%  
+	  Novo Arquivo		    2988	subdir.mk	11:57 -> 11:57 99%  
+	    Novo Dir      42	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Generated_Code\
+	  Novo Arquivo		    7535	AJUSTA_FONTE.c	11:57 -> 11:57 99%  
+	  Novo Arquivo		    7388	AJUSTA_FONTE.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		    5570	ALERT.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5620	ALERT.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5578	AUX1.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5627	AUX1.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5578	AUX2.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5627	AUX2.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		    7410	BUZZER.c	11:57 -> 11:57 99%  
+	  Novo Arquivo		    7269	BUZZER.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		   17172	Cpu.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    8195	Cpu.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		   34331	IIC.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		   22825	IIC.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		   34012	IO_Map.c	11:57 -> 11:57 99%  
+	  Novo Arquivo		  605023	IO_Map.h	11:57 -> 11:58 10%   21%   32%   43%   54%   64%   75%   86%   97%   99%  
+	  Novo Arquivo		    5442	LED1.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5319	LED1.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5448	LED2.c		11:57 -> 11:57 99%  
+	  Novo Arquivo		    5325	LED2.h		11:57 -> 11:57 99%  
+	  Novo Arquivo		    9608	MOTOR_OK.c	11:57 -> 11:57 99%  
+	  Novo Arquivo		    9214	MOTOR_OK.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		    3990	PE_Const.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		    5030	PE_Error.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		   18941	PE_Types.h	11:57 -> 11:57 99%  
+	  Novo Arquivo		    7902	REF_MS.c	11:57 -> 11:57 99%  
+	  Novo Arquivo		    6424	REF_MS.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7425	SAIDA_1.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7283	SAIDA_1.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7425	SAIDA_2.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7283	SAIDA_2.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7423	SAIDA_3.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7281	SAIDA_3.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7423	SAIDA_4.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7281	SAIDA_4.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7423	SAIDA_5.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    7281	SAIDA_5.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		   28982	SERIAL1.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		   18680	SERIAL1.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		   16052	Vectors.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    5568	_5V_FIM_DE_CURSO.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    5469	_5V_FIM_DE_CURSO.h	11:58 -> 11:58 99%  
+	    Novo Dir       7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Headers\
+	  Novo Arquivo		    1077	acionamentos.h	11:58 -> 11:58 97%  
+	  Novo Arquivo		  339738	configuracao.BAK	11:58 -> 11:58 99%  
+	  Novo Arquivo		  464788	configuracao.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		  447460	Copy of configuracao.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		     556	pac1710.h	11:58 -> 11:58 95%  
+	  Novo Arquivo		     244	serial.h	11:58 -> 11:58 90%  
+	  Novo Arquivo		    1385	variaveis.h	11:58 -> 11:58 98%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Debugger\
+	  Novo Arquivo		     496	Jiga_KWT_Sensor_Corrente_FLASH_PnE U-MultiLink.pemicro	11:58 -> 11:58 95%  
+	  Novo Arquivo		    1135	MCF51AC256A.mem	11:58 -> 11:58 97%  
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Linker_Files\
+	  Novo Arquivo		    3527	Jiga_KWT_Sensor_Corrente.lcf	11:58 -> 11:58 99%  
+	  Novo Arquivo		    5130	ProcessorExpert.lcf	11:58 -> 11:58 99%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\PExCompAutoTest\
+	    Novo Dir       2	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Project_Settings\Startup_Code\
+	  Novo Arquivo		    7500	startcf.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    2256	startcf.h	11:58 -> 11:58 98%  
+	    Novo Dir       0	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteLaunch\
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteLaunch\results\
+	  Novo Arquivo		       0	remotelaunch.log	11:58 -> 11:58
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\RemoteSystemsTempFiles\
+	  Novo Arquivo		     289	.project	11:58 -> 11:58 91%  
+	    Novo Dir       7	C:\Users\User\Documents\Manuais\jiga_uProcess_Sensor_Corrente_3gen\Sources\
+	  Novo Arquivo		   17076	acionamentos.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		      46	desktop.ini	11:58 -> 11:58 63%  
+	  Novo Arquivo		    5174	Events.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    5192	Events.h	11:58 -> 11:58 99%  
+	  Novo Arquivo		    6455	main.c		11:58 -> 11:58 99%  
+	  Novo Arquivo		    4515	pac1710.c	11:58 -> 11:58 99%  
+	  Novo Arquivo		    3195	serial.c	11:58 -> 11:58 99%  
+	                   1	C:\Users\User\Documents\Manuais\Teste\
+	    modificado		       0	Teste.docx
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:        67        65         2         0         0         0
+ Arquivos:       255       250         5         0         0         0
+    Bytes:   19.68 m    4.28 m   15.39 m         0         0         0
+N.§ de Vezes:   0:01:30   0:01:13                       0:00:00   0:00:16
+
+
+Velocidade:              61.014 Bytes/s.
+Velocidade:               3,491 MegaBytes/min.
+   Finalizado em: quinta-feira, 18 de setembro de 2025 11:58:08
+

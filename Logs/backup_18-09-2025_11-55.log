@@ -1,0 +1,32 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 18 de setembro de 2025 11:55:49
+   Origem : C:\Users\User\Documents\Manuais\
+     Destino : \\192.0.30.93\Instaladores\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /V /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /ETA /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	C:\Users\User\Documents\Manuais\
+	    modificado		  438807	Como abrir uma OS no OSTicket - Operador.pdf
+	    modificado		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia - Copia.docx
+	    modificado		   3.0 m	Manual de Uso do OsTicket para Agentes.pdf
+	         mesmo		   5.9 m	IT 070.S.51- REGISTRO DE PROGRAMA€ÇO DE JIGA MICROPROCESSADA_Data 28 02 22_Rev02 (1) - Copia.docx
+	    Novo Dir       1	C:\Users\User\Documents\Manuais\Teste\
+	  Novo Arquivo		       0	Teste.docx
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         2         1         1         0         0         0
+ Arquivos:         5         1         4         0         0         0
+    Bytes:   15.39 m         0   15.39 m         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: quinta-feira, 18 de setembro de 2025 11:55:49
+
